@@ -1,6 +1,6 @@
 # E-Commerce Platform
 
-![E-Commerce Preview](preview.png)
+![E-Commerce Preview](https://github.com/iPrasanjitRoy/E-Commerce-/blob/main/assets/1.png)
 
 ## Requirements
 - **PHP:** 8.1 or above 🐘
@@ -21,7 +21,7 @@
 
 4. **Import the Database** 📊
    - Open phpMyAdmin
-   - Create a new database (e.g., `ecommerce_db`)
+   - Create a new database (e.g., `myshop`)
    - Import the provided `.sql` file
 
 5. **Run the Application** 🌐
@@ -54,13 +54,5 @@
 
 ---
 
-
----
-
-## License
-This project is licensed under the MIT License 📜.
-
----
-
 ## Contact
-For any questions or support, please reach out to [Your Name](mailto:yourname@example.com) 📧.
+For any questions or support, please reach out to [Prasanjit Roy](mailto:hiprasanjitroy@gmail.com) 📧.
